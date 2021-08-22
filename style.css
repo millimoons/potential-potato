@@ -1,4 +1,9 @@
 body {
 font-family: 'Bodoni Moda', serif;
-text-align: center;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-align: center;
 }
